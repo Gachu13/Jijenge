@@ -13988,5 +13988,10 @@ a.text-dark:focus {
     color: inherit;
     border-color: #dee2e6;
   }
+
+  .footer-custom{
+      background-color: #c51f1a ;
+      color: white;
+  }
 }
 
