@@ -60,17 +60,91 @@
             </div>
         </div>
 
-        <div class="mt-5" style="height: 40vh" align="center">
-            <h1 class=" m-4" style="font-size: 350%">Contact Us</h1>
-            <div class="m-4">
-                <a href="#" style="font-size: 250%"><i class="m-2 fa fa-facebook-f"></i></a>
-                <a href="#" style="font-size: 250%"><i class="m-2 fa fa-instagram"></i></a>
-                <a href="#" style="font-size: 250%"><i class="m-2 fa fa-twitter"></i></a>
-            </div>
-            <div class="m-4">
-                <p style="font-size: 150%"><i class="fa fa-phone"></i>  +254728600576</p>
+
+
+        <!-- Footer -->
+        <div class="footer-custom" style="height: 90vh">
+            <div class="container">
+                <div class="m-5">
+                    <h1 style="font-size: 150%">GET IN TOUCH</h1>
+                    <p style="font-size: 250%">
+                        I love to listen and I am eagerly waiting to talk to you regarding your concerns. Get in touch with us if you have any queries and I will get back to you as soon as possible.
+                    </p>
+                </div>
+                <!-- Grid row -->
+                <div class="row m-0">
+                    <!-- Grid column -->
+                    <div class="col-md-6" align="right">
+                        <!-- Default form contact -->
+                        <form class="text-center border border-light p-5 bg-transparent" action="#!" style="border-radius: 15px 15px 15px 15px;">
+
+                            <div>
+                                <!-- First Name -->
+                                <input type="text" id="name" name="name" class="form-control mb-4" placeholder="Name" required>
+
+                                <!-- Email -->
+                                <input type="email" id="email" name="email" class="form-control mb-4" placeholder="E-mail" required>
+                            </div>
+
+                            <!-- Phonenumber -->
+                            <textarea id="message" class="form-control mb-4" placeholder="Enter Message" rows="3" required></textarea>
+
+                            <!-- Send button -->
+                            <button class="btn btn-primary btn-block" type="submit">Register</button>
+
+                        </form>
+                        <!-- Default form contact -->
+                    </div>
+                    <!-- Grid column -->
+
+                    <!-- Grid column -->
+                    <div class="col-md-6">
+                        <div class="">
+                            <div class="row h-20 m-5">
+                                <div class="col-md-2 my-auto">
+                                    <i class="fa fa-phone-square" style="font-size: 350%"></i>
+                                </div>
+                                <div class="col-md-10">
+                                    <div style="font-size: 125%;font-weight: bold;">
+                                        CALL ME
+                                    </div>
+                                    <div style="font-size: 125%">
+                                        +2547-28600576
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row h-20 m-5">
+                                <div class="col-md-2 my-auto">
+                                    <i class="fa fa-envelope" style="font-size: 350%"></i>
+                                </div>
+                                <div class="col-md-10">
+                                    <div style="font-size: 125%;font-weight: bold;">
+                                        MAIL US
+                                    </div>
+                                    <div style="font-size: 125%">
+                                        help@example.com
+                                    </div>
+                                </div>
+                            </div>
+                            <!-- Grid row -->
+                            <div class="row h-20 m-5">
+                                <a href="#" style="font-size: 250%"><i class="m-2 fa fa-facebook-f"></i></a>
+                                <a href="#" style="font-size: 250%"><i class="m-2 fa fa-instagram"></i></a>
+                                <a href="#" style="font-size: 250%"><i class="m-2 fa fa-twitter"></i></a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Grid column -->
+
+                </div>
             </div>
         </div>
+        <!-- Footer -->
+        <!-- Copyright -->
+        <div class="footer-copyright text-center py-3">© 2020 Copyright:
+            ChelseaNjeri01@gmail.com
+        </div>
+        <!-- Copyright -->
 
 
         <script src="/js/app.js"></script>
