@@ -100,10 +100,10 @@
                     <div class="col-md-6">
                         <div class="">
                             <div class="row h-20 m-5">
-                                <div class="col-md-2 my-auto">
+                                <div class="col-md-2">
                                     <i class="fa fa-phone-square" style="font-size: 350%"></i>
                                 </div>
-                                <div class="col-md-10">
+                                <div class="col-md-10 my-auto">
                                     <div style="font-size: 125%;font-weight: bold;">
                                         CALL ME
                                     </div>
@@ -113,10 +113,10 @@
                                 </div>
                             </div>
                             <div class="row h-20 m-5">
-                                <div class="col-md-2 my-auto">
+                                <div class="col-md-2">
                                     <i class="fa fa-envelope" style="font-size: 350%"></i>
                                 </div>
-                                <div class="col-md-10">
+                                <div class="col-md-10 my-auto">
                                     <div style="font-size: 125%;font-weight: bold;">
                                         MAIL US
                                     </div>
@@ -127,9 +127,14 @@
                             </div>
                             <!-- Grid row -->
                             <div class="row h-20 m-5">
-                                <a href="#" style="font-size: 250%"><i class="m-2 fa fa-facebook-f"></i></a>
-                                <a href="#" style="font-size: 250%"><i class="m-2 fa fa-instagram"></i></a>
-                                <a href="#" style="font-size: 250%"><i class="m-2 fa fa-twitter"></i></a>
+                                <div class="col-md-2">
+                                    <i class="fa fa-globe" style="font-size: 350%"></i>
+                                </div>
+                                <div class="col-md-10 my-auto">
+                                    <a href="#" style="font-size: 250%"><i class="m-2 fa fa-facebook-f"></i></a>
+                                    <a href="#" style="font-size: 250%"><i class="m-2 fa fa-instagram"></i></a>
+                                    <a href="#" style="font-size: 250%"><i class="m-2 fa fa-twitter"></i></a>
+                                </div>
                             </div>
                         </div>
                     </div>
