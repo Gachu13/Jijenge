@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Jijenge</title>
+        <title>Jijenge Investments</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -14,7 +14,7 @@
     <body>
         <nav class="navbar fixed-top navbar-expand-md navbar-dark bg-transparent" style="height: 90px">
             <div class="container">
-                <a class="navbar-brand" href="#">Jijenge</a>
+                <a class="navbar-brand" href="#">Jijenge Investments</a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>
@@ -66,8 +66,8 @@
         <div class="footer-custom" style="height: 90vh">
             <div class="container">
                 <div class="m-5">
-                    <h1 style="font-size: 150%">GET IN TOUCH</h1>
-                    <p style="font-size: 250%">
+                    <h1 style="font-size: 250%"><strong>GET IN TOUCH</strong></h1>
+                    <p style="font-size: 150%">
                         I love to listen and I am eagerly waiting to talk to you regarding your concerns. Get in touch with us if you have any queries and I will get back to you as soon as possible.
                     </p>
                 </div>
@@ -90,9 +90,9 @@
                             <textarea id="message" class="form-control mb-4" placeholder="Enter Message" rows="3" required></textarea>
 
                             <!-- Send button -->
-                            <button class="btn btn-primary btn-block" type="submit">Register</button>
+                            <button class="btn btn-primary btn-block" type="submit">Send Message</button>
 
-                        </form>
+            </form>
                         <!-- Default form contact -->
                     </div>
                     <!-- Grid column -->
@@ -113,7 +113,7 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="row h-20 m-5">
+                            <div class="row h-2 m-5">
                                 <div class="col-md-2 my-auto">
                                     <i class="fa fa-envelope" style="font-size: 350%"></i>
                                 </div>
@@ -122,7 +122,7 @@
                                         MAIL US
                                     </div>
                                     <div style="font-size: 125%">
-                                        help@example.com
+                                        ijijenge@gmail.com
                                     </div>
                                 </div>
                             </div>
@@ -142,7 +142,7 @@
         <!-- Footer -->
         <!-- Copyright -->
         <div class="footer-copyright text-center py-3">© 2020 Copyright:
-            ChelseaNjeri01@gmail.com
+            ijijenge@gmail.com
         </div>
         <!-- Copyright -->
 
